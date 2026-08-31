@@ -1,1 +1,16 @@
 # LeetCode_Practice
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
