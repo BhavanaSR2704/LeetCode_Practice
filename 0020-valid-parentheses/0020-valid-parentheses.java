@@ -1,41 +1,39 @@
 
+import java.util.Stack;
+
 class Solution {
     public boolean isValid(String s) {
-        
-        char[] stack = new char[s.length()];
-        int top = -1;
+        Stack<Character> stack = new Stack<>();
 
         for (char ch : s.toCharArray()) {
 
+            
             if (ch == '(' || ch == '[' || ch == '{') {
-                stack[++top] = ch;
+                stack.push(ch);
             }
 
+           
             else {
-                
-                if (top == -1) {
+                if (stack.isEmpty()) {
                     return false;
                 }
 
-                char open = stack[top--];
+                char top = stack.pop();
 
-                
-                if (ch == ')' && open != '(') {
+                if (ch == ')' && top != '(') {
                     return false;
                 }
 
-                if (ch == ']' && open != '[') {
+                if (ch == ']' && top != '[') {
                     return false;
                 }
 
-                if (ch == '}' && open != '{') {
+                if (ch == '}' && top != '{') {
                     return false;
                 }
             }
         }
 
-       
-        return top == -1;
+        return stack.isEmpty();
     }
 }
-
