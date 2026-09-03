@@ -27,7 +27,7 @@ class Solution {
             current = current.next;
         }
 
-        // Add the remaining nodes
+        
         if (list1 != null) {
             current.next = list1;
         } else {
