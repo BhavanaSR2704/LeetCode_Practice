@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
