@@ -55,6 +55,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0088-merge-sorted-array](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## String Matching
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sliding Window
 |  |
 | ------- |
