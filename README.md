@@ -19,6 +19,7 @@
 | [0119-pascals-triangle-ii](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0016-3sum-closest](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0012-integer-to-roman](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/BhavanaSR2704/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
